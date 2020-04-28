@@ -1,0 +1,45 @@
+BCI subtypes:
+	Active BCI is controlled by a concious thought from the user.
+	Reactive BCI gets an output from brain activity in response to an event.
+	Passive BCI gets an output from arbitrary brain activity(sub-concious).
+
+Brain Signals:
+	EEG(Electroencephalogram)=Electrical signals
+	(fNIRS)Functional Near-Infrared Spectroscopy=Oxygen blood levels using infrared light
+	(MEG) Magnetoencephalography=Lagre scale EEG
+	(FMRI) Magnetic Resonance Imaging=Large scale FNIRS, much higher resolution
+Non-Brain Signals:
+	Motion capture=reading posture
+	Eyetracking
+	(EMG)Electromyography=measures muscle tension
+
+"Aspects of Cognitive State":
+	Any aspect of the physica; brain state that can be measured with sufficient trial reliability.
+	Tonic state:slow changing brain processes
+	Phasic state: fast changing states
+	Event related state: processes that are linked to a particular event
+
+Uses:
+	Disbled people: Communication, control 
+	SAfety: Automatic breaking, monitoring fatigue in pilots, monitoring reactions
+	Forensics: lie detection, brain fingerprinting
+	Entertainment: Mood assessment, fast response detection, thought control
+	Health: Sleep monitoring, neurorehabilitation
+	Social: neurowear, communication
+	Neuroscience: multivariate pattern analysis(brain imaging), closed loop neuroscience experiments
+
+Scientific challenges:
+related to signal processing, machine learning, computational intelligence, neuroscience, cognitive science
+Difficult as processing depends on ynknown parameters
+	Different brain signals from different people as cortex is folded differently
+	Functional map differs with people
+	Sensor locations differ across recording sessions
+	Brain dynamics are constantly changing
+Signal to noise ratio is very challenging
+Specific measures are hard to obtain as neuron groups have lots of functions
+Do not have a full understanding of the brain
+Consequences:
+	Sophisticated signal processing required
+	All approaches are statistical
+	Systems must be calibrated before use
+	Calibration requires a lot of previous knowledge of the subject

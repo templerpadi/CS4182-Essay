@@ -1,0 +1,5 @@
+Clinical Applications of Brain-Computer Interfaces: Current State and Future Prospects by Joseph N. Mak and Jonathan R. Wolpaw published in 2009 in IEEE Reviews in Biomedical Engineering.
+Brain-Computer Interface: Current and Emerging Rehabilitation Applications by Janis J. Daly and Jane E. Huggins published in 2015 in Archives of Physical Medicine and Rehabilitation
+Puzzlebox - https://puzzlebox.io/product/orbit/
+Mind-Controlled VR Game Really Works by Rachel Metz (MIT Technology Review) https://www.technologyreview.com/2017/08/09/68005/mind-controlled-vr-game-really-works/
+Recent advances in neural dust: towards a neural interface platform by Ryan M. Neely, David K Piech, Samantha R. Santacruz, Michel M. Maharbiz and Jose M. Carmena, published in 2018 Current Opinion in Neurobiology Volume 50
